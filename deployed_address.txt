@@ -1,1 +1,4 @@
+Deployed on Ropsten Testnet
 
+GrimeNFT Contract Address: 0x19CB800BeAB88dc6946ECbC915CD3A4354dcB8Cc
+Deploying Account: 0x16dc04A9133f393567C634C2F145870b913233F9
