@@ -6,6 +6,6 @@
 
 ## Access Control
 
-`
+`onlyOwner` is used when uploading to IPFS and when calling the `Mint()` function.
 
 
